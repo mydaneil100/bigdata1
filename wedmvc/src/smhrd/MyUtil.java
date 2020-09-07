@@ -7,6 +7,7 @@ public class MyUtil {
       for(int i=1;i<=10;i++) {
          sum+=i;
       }
+      //길동아 여기좀 수정해봐
       return sum;
    }
 }
